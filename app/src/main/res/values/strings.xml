@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="s_pregunta">¿Cuál es el país más pequeño del mundo?</string>
+    <array name="res">
+        <item>Andorra</item>
+        <item>Principalty of Sealand</item>
+        <item>Principauté de Monaco</item>
+        <item>Città del Vaticano</item>
+    </array>
+    <string name="correcta">Respuesta CORRECTA!</string>
+    <string name="incorrecta">Respuesta INCORRECTA...</string>
+    <string name="txt">Pregunta:</string>
+    <string name="button">COMPRUEBA</string>
+</resources>

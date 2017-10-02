@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button">CHECK</string>
+    <string name="correcta">CORRECT answer!</string>
+    <string name="incorrecta">WRONG answer...</string>
+    <string name="s_pregunta">What is the smallest country in the world?</string>
+    <string name="txt">Question:</string>
+</resources>
